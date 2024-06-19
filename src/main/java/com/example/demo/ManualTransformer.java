@@ -51,6 +51,8 @@ public class ManualTransformer {
 				// Concatenate emails into one liner string
 				String emailString = String.join(COL_SPLITTER, emails);
 
+				logger.info("Result: " + emailString);
+
 				// Check if the output file exists and append or create the file
 				if (Files.exists(Paths.get(outputFilePath))) {
 					Files.write(Paths.get(outputFilePath), (COL_SPLITTER + emailString).getBytes(),
