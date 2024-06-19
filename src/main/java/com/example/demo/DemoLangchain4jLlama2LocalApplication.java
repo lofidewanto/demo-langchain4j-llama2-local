@@ -14,6 +14,8 @@ import dev.langchain4j.model.ollama.OllamaChatModel;
 @SpringBootApplication
 public class DemoLangchain4jLlama2LocalApplication implements CommandLineRunner {
 
+	private static final String MODEL_NAME = "llama3";
+
 	private static final String OLLAMA_HOST = "http://localhost:11434";
 
 	public static void main(String[] args) {
@@ -42,7 +44,7 @@ public class DemoLangchain4jLlama2LocalApplication implements CommandLineRunner 
 
 	@Bean
 	ChatLanguageModel chatLanguageModel() {
-		ChatLanguageModel model = OllamaChatModel.builder().baseUrl(OLLAMA_HOST).modelName("llama3").build();
+		ChatLanguageModel model = OllamaChatModel.builder().baseUrl(OLLAMA_HOST).modelName(MODEL_NAME).build();
 		return model;
 	}
 

@@ -12,4 +12,6 @@ For this method, refer to the code here: [ManualTransformer.java](https://github
 ## Implementation using LangChain4J with Ollama LLM Local Model
 For this approach, see the implementation in: [LlamaTransformer.java](https://github.com/lofidewanto/demo-langchain4j-llama2-local/blob/main/src/main/java/com/example/demo/LlamaTransformer.java)
 
-To use the LangChain4J method, you must first install and run the Ollama LLM local model. You can download and install it from: [Download and Install Ollama](https://ollama.com/download)
+To use the LangChain4J method, you must first install and run the Ollama LLM local model. 
+- You can download and install it from: [Download and Install Ollama](https://ollama.com/download)
+- To run the local model llama3: `ollama run llama3`
