@@ -1,0 +1,36 @@
+I
+(Gesetzgebungsakte)
+VERORDNUNGEN
+VERORDNUNG (EU) 2022/2554 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 14. Dezember 2022
+über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG)
+Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011
+(Text von Bedeutung für den EWR)
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION —
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union, insbesondere auf Artikel 114,
+auf Vorschlag der Kommission,
+nach Übermittlung des Entwurfs des Gesetzgebungsaktes an die nationalen Parlamente,
+nach Stellungnahme der Europäischen Zentralbank (1),
+nach Stellungnahme des Europäischen Wirtschafts- und Sozialausschusses (2),
+gemäß dem ordentlichen Gesetzgebungsverfahren (3),
+in Erwägung nachstehender Gründe:
+(1) Informations- und Kommunikationstechnologien (IKT) unterstützen im digitalen Zeitalter komplexe Systeme, die für
+alltägliche Aktivitäten eingesetzt werden. Sie sorgen dafür, dass Schlüsselsektoren unserer Volkswirtschaften,
+einschließlich des Finanzsektors, am Laufen gehalten werden, und verbessern das Funktionieren des Binnenmarkts.
+Die zunehmende Digitalisierung und Vernetzung verstärken auch das IKT-Risiko, das die Gesellschaft insgesamt —
+und insbesondere das Finanzsystem — anfälliger für Cyberbedrohungen oder IKT-Störungen macht. Während die
+allgegenwärtige Nutzung von IKT-Systemen und die hohe Digitalisierung und Konnektivität heute grundlegende
+Merkmale der Tätigkeiten von Finanzunternehmen der Union sind, muss ihre digitale Resilienz erst noch besser
+angegangen und in ihre allgemeinen operativen Rahmen integriert werden.
+(2) Die Nutzung von IKT hat in den letzten Jahrzehnten einen derart zentralen Stellenwert bei der Erbringung von
+Finanzdienstleistungen erlangt, dass sie heute entscheidend zur Ausführung typischer alltäglicher Aufgaben aller
+Finanzunternehmen beiträgt. Auf Digitalisierung beruhen heute beispielsweise Zahlungen, die von bargeld- und
+papiergestützten Methoden zunehmend auf die Nutzung digitaler Lösungen verlagert wurden, sowie
+Wertpapierclearing und -abrechnungssysteme, elektronischer und algorithmischer Handel, Darlehens- und
+Finanzierungsgeschäfte, Peer-to-Peer-Finanzierung, Bonitätseinstufung, Schadensmanagement und Back-Office-
+(1) ABl. C 343 vom 26.8.2021, S. 1.
+(2) ABl. C 155 vom 30.4.2021, S. 38.
+(3) Standpunkt des Europäischen Parlaments 10. November 2022 (noch nicht im Amtsblatt veröffentlicht) und Beschluss des Rates vom
+28. November 2022.
+DE Amtsblatt der Europäischen Union
+27.12.2022 L 333/1

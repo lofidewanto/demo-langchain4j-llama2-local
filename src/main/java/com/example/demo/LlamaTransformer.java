@@ -22,13 +22,13 @@ public class LlamaTransformer {
 			""";
 
 	@Autowired
-	private Assistant assistant;
+	private ChatAssistant chatAssistant;
 
 	public void transformCsvFileToOneLiner(String csvFilePath, String outputFilePath) {
 		try {
 			List<String> lines = Files.readAllLines(Paths.get(csvFilePath));
 
-			String result = assistant.chat(CHAT + lines.toString());
+			String result = chatAssistant.chat(CHAT + lines.toString());
 
 			logger.info("Result: " + result);
 
