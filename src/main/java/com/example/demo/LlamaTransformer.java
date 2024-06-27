@@ -8,7 +8,6 @@ import java.util.List;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Component
@@ -21,8 +20,11 @@ public class LlamaTransformer {
 			a single line, separated by semicolons, from the following input:
 			""";
 
-	@Autowired
 	private ChatAssistant chatAssistant;
+
+	public LlamaTransformer(ChatAssistant chatAssistant) {
+		this.chatAssistant = chatAssistant;
+	}
 
 	public void transformCsvFileToOneLiner(String csvFilePath, String outputFilePath) {
 		try {
