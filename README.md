@@ -1,6 +1,10 @@
 # demo-langchain4j-llama2-local
 Demo for LangChain4J with Local Model and Spring Boot
 
+## Introduction 
+
+**Article at Medium:** [Chat as Code is the New Cat on the Block](https://bit.ly/LangChain4JSpringBoot)
+
 **Objective:**
 Convert a CSV file containing email addresses into a single-line email list using semicolons as separators.
 
