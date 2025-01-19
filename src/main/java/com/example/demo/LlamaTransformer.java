@@ -16,8 +16,8 @@ public class LlamaTransformer {
 	private static final Logger logger = LoggerFactory.getLogger(LlamaTransformer.class);
 
 	private final static String CHAT = """
-			Please provide the concatenated email addresses in
-			a single line, separated by semicolons, from the following input:
+			Please provide the concatenated email addresses and only the email addresses,
+			ignore the name, in a single line, separated by semicolons, from the following input:
 			""";
 
 	private ChatAssistant chatAssistant;

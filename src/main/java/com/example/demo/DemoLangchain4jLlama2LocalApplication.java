@@ -16,7 +16,7 @@ import dev.langchain4j.model.ollama.OllamaEmbeddingModel;
 @SpringBootApplication
 public class DemoLangchain4jLlama2LocalApplication implements CommandLineRunner {
 
-	public static final String MODEL_NAME = "llama3";
+	public static final String MODEL_NAME = "llama3.2";
 
 	public static final String OLLAMA_HOST = "http://localhost:11434";
 
